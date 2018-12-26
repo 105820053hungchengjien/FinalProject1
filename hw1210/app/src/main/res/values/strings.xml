@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hw1210</string>
+    <string name="t1">虛擬寵物養殖</string>
+    <string name="t2">餵食</string>
+    <string name="t3">取名</string>
+</resources>
